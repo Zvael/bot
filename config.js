@@ -57,8 +57,8 @@ fs.watchFile(file_exif, () => {
 
 // Sticker WM
 packname = Bot
-author = Hamba Allah
-wm = 'Hamba Allah'
+author = HambaAllah
+wm = 'HambaAllah'
 
 Intervalmsg = 1800 //detik
 
